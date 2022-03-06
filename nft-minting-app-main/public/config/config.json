@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x917DfEa999a41e7D28dC69798C83033219C97a1e",
+  "SCAN_LINK": "https://polygonscan.com/address/0x917dfea999a41e7d28dc69798c83033219c97a1e",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "NFTEAM PRUEBA",
+  "SYMBOL": "NFTMP",
+  "MAX_SUPPLY": 954,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/nfteam-v3",
+  "SHOW_BACKGROUND": true
+}
